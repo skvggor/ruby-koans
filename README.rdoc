@@ -1,4 +1,6 @@
-= Ruby Koans
+= Ruby Koans 
+
+rdoc-image:https://wakatime.com/badge/user/6fd82e7b-8d36-4419-85dc-58cd397667a8/project/a50d279d-94fa-4636-aa3a-c33aac88f3fb.svg
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
 The goal is to learn the Ruby language, syntax, structure, and some common
