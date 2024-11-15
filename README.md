@@ -1,2 +1,0 @@
-# ruby-koans
-Ruby Koans.
